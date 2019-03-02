@@ -1,0 +1,16 @@
+{
+  "Url": "ws://52.81.34.53:58396/ws/v1",
+  "RobotSN": "NEWHUMAN1001",
+  "CompanyTag": "UD",
+  "RobotMac": "00016C06A630",
+  "Nonce": "030016587326630",
+  "ModuleName": "",
+  "FromFloorNo": "3",
+  "ToFloorNo": "5",
+  "TaskTimeoutSecond": "3",
+  "RobotInElevatorSecond": "20",
+  "RobotOutElevatorSecond": "20",
+  "TaskEndExit": "True",
+  "RobotHeartBeatSecond": "10",
+  "ElevatorOpenDoorSecond": "40"
+}
